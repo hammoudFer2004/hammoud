@@ -21,6 +21,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
-### المشاريع الرئيسية
+### المشاريع الرئيسية  
+Nothing Big Projects yet
 
 
