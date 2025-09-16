@@ -23,18 +23,7 @@
 
 ### المشاريع الرئيسية
 
-[![](https://img.shields.io/badge/-📝%20إدارة%20المنتجات-000)](https://github.com/mohammedferwana/products-api)
-[![](https://img.shields.io/badge/-🔐%20نظام%20تسجيل%20المستخدمين-000)](https://github.com/mohammedferwana/user-auth-api)
-[![](https://img.shields.io/badge/-📦%20إدارة%20المخازن-000)](https://github.com/mohammedferwana/inventory-api)
-[![](https://img.shields.io/badge/-🛠%20مشروع%20CRUD-000)](https://github.com/mohammedferwana/crud-api)
 
-### روابط التواصل
-
-<p>
-  <a href="https://github.com/mohammedferwana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohammedferwana" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ### إحصائيات GitHub
 
